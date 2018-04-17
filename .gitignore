@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+print("a");
 *.exe
 *.out
 *.app
